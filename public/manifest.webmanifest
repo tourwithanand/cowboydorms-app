@@ -1,0 +1,9 @@
+{
+  "name": "Cowboy Dorms Channel Manager",
+  "short_name": "CD Manager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#B3202A",
+  "icons": [{ "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
