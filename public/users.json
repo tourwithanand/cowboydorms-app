@@ -1,1 +1,22 @@
-{ "users": [] }
+{
+  "app": "cowboy-dorms-channel-manager",
+  "data_repo": "tourwithanand/cowboydorms-data",
+  "app_repo": "tourwithanand/cowboydorms-app",
+  "created_by": "tourwithanand",
+  "users": [
+    {
+      "username": "cowboydorms",
+      "full_name": "Cowboy Dorms",
+      "role": "owner",
+      "active": true,
+      "created_at": "2026-10-12T17:03:02.792Z",
+      "key": {
+        "v": 1,
+        "iter": 310000,
+        "salt": "y5IVF9VOrUG306Zl3fgkCQ==",
+        "iv": "5nys8iL5OJy5y+ui",
+        "data": "19DIup+3RJR0XP88hKyC4nQI3n22eOjkoqofAVtr9d7+hwly3Kmfw1MzFR83Kx8dlxVuewTuHXm3nM1QosLiMXd5JwbMGHi6z6OktNu6gonqglx3zg+a30amc7L1BUzTggqQj0ZN+qfEDT4nIg=="
+      }
+    }
+  ]
+}
